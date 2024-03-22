@@ -4,7 +4,7 @@ const App = () => {
   return (
     <>
 
-    <h1 className="flex justify-center">To Do List</h1>
+    <h1 className="flex justify-center">To Do list</h1>
     <div className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 ">
 
       <form class="max-w-sm mx-auto">
